@@ -357,3 +357,11 @@ body {
     font-size: 1.5rem;
   }
 }
+@media screen and (max-width: 405px) {
+  .search-control {
+    font-size: 0.8rem;
+  }
+  .title {
+    font-size: 1.1rem;
+  }
+}
